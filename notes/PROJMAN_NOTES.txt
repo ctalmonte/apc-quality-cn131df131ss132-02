@@ -1,0 +1,6 @@
+Iterations -- Spirint
+1 Sprint = 3 weeks
+
+Sprint 1 = Week 4-6
+Sprint 2 = Week 7-9
+Sprint 3 = Week 10-12

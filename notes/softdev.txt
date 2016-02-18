@@ -1,0 +1,78 @@
+Problem -- what is	Problem = Opportunity						IMAGINATION
+Solution -- goal --
+
+Situation -> Problems: Process, Actors, Users
+	     Solution=Options A,B
+*Process-- Input(Source), Output(Target)      --------------- DataBase
+
+
+Keep
+It
+Simple
+Stupid
+
+Total Quality Management (TQM)
+-Cleanliness
+-Quality of Food
+-Service
+
+
+Process:
+	-Admin
+	-EndUser1
+	-EndUser2
+
+Cause-Effect Analysis
+	-Causal relationship
+
+
+
+SITUATIONAL ANALYSIS (NetSec)
+Problem Statement: Many hacks everyday
+Targets: Financial Institutions, Government Agencies
+Motives: Steal data, make illegitimate money
+
+Problem Structuring:Threats and Attacks
+
+Behavioral Patterns
+Use Case Analysis		Network, Firewall, Routers, Switches, O.S, Drivers
+
+SITUATIONAL ANALYSIS(APC_VS)
+Problem Statement: Violation of student discipline
+
+Problem Structuring: social media (cyber bullying)________
+		     dress code_________
+		     academic_______
+		     alcohol/ drugs__________
+
+DECISION TREE ANALYSIS/ USE CASE DIAGRAMS
+
+
+
+
+
+
+
+
+
+
+Product Mix--Derivative
+
+
+
+TOP
+MID
+OPERATIONS
+
+STUXNET VIRUS-- Discovered by Iranians;Siemens
+*Normal Temp (Nuclear); Overheat
+
+___________________________________________________________________________________
+Situational Analysis -- Problems
+*Violation->Student Handbook; Guide;Policy-basis
+*Principle: Discipline acceptable in the industry
+
+Problem Structuring:	Solution;Modules	
+*Actors -- entities	*1,2,3
+*Processes
+*Data
