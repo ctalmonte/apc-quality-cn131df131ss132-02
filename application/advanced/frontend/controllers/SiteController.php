@@ -209,10 +209,5 @@ class SiteController extends Controller
         return $this->render('resetPassword', [
             'model' => $model,
         ]);
-    
-    }
-    public function actionStudentpage()
-    {
-        return $this->render('studentpage');
     }
 }
